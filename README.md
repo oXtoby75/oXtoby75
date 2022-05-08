@@ -7,10 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/oxtoby75" target="blank"><img src="https://img.shields.io/twitter/follow/oxtoby75?logo=twitter&style=for-the-badge" alt="oxtoby75" /></a> </p>
 
-- 🔭 I’m currently working on [paladium pvp](https://paladium-pvp.fr/)
-
-- 🌱 I’m currently learning **React**
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
